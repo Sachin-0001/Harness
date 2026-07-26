@@ -1,0 +1,5 @@
+City: Tokyo
+Temperature: 23.8°C
+Humidity: 97%
+Wind Speed: 3.1 m/s
+Condition: Clear sky
