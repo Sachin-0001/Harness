@@ -1,0 +1,170 @@
+[
+    {
+        "fact": "hello.txt contains the text 'hello'",
+        "type": "file",
+        "confidence": 1.0,
+        "episode_id": 0,
+        "timestamp": "2026-07-26T10:42:21.413723+00:00"
+    },
+    {
+        "fact": "Bangalore",
+        "type": "location",
+        "confidence": 1.0,
+        "episode_id": 1,
+        "timestamp": "2026-07-26T10:54:23.675032+00:00"
+    },
+    {
+        "fact": "overcast",
+        "type": "weather",
+        "confidence": 1.0,
+        "episode_id": 1,
+        "timestamp": "2026-07-26T10:54:23.675032+00:00"
+    },
+    {
+        "fact": "Bangalore is located at an altitude of 900 m (3,000 ft) above sea level.",
+        "type": "location",
+        "confidence": 1.0,
+        "episode_id": 2,
+        "timestamp": "2026-07-26T19:46:40.863840+00:00"
+    },
+    {
+        "fact": "Bangalore is the capital of India's southern Karnataka state.",
+        "type": "location",
+        "confidence": 1.0,
+        "episode_id": 2,
+        "timestamp": "2026-07-26T19:46:40.863840+00:00"
+    },
+    {
+        "fact": "sachin.samprit@gmail.com",
+        "type": "contact",
+        "confidence": 1.0,
+        "episode_id": 4,
+        "timestamp": "2026-07-26T19:51:32.896196+00:00"
+    },
+    {
+        "fact": "email",
+        "type": "preference",
+        "confidence": 1.0,
+        "episode_id": 4,
+        "timestamp": "2026-07-26T19:51:32.896196+00:00"
+    },
+    {
+        "fact": "User shared a string, asked for its purpose.",
+        "type": "other",
+        "confidence": 1.0,
+        "episode_id": 6,
+        "timestamp": "2026-08-02T15:23:22.794598+00:00"
+    },
+    {
+        "fact": "Namglore may be a fictional place or a very small, local community",
+        "type": "other",
+        "confidence": 1.0,
+        "episode_id": 7,
+        "timestamp": "2026-08-02T15:24:10.411322+00:00"
+    },
+    {
+        "fact": "User prefers to use AI assistant for assistance",
+        "type": "preference",
+        "confidence": 1.0,
+        "episode_id": 8,
+        "timestamp": "2026-08-02T15:24:40.824216+00:00"
+    },
+    {
+        "fact": "Tavily is a cloud-based search API.",
+        "type": "other",
+        "confidence": 1.0,
+        "episode_id": 9,
+        "timestamp": "2026-08-02T16:00:00.178935+00:00"
+    },
+    {
+        "fact": "Tavily provides real-time, structured web results.",
+        "type": "other",
+        "confidence": 1.0,
+        "episode_id": 9,
+        "timestamp": "2026-08-02T16:00:00.178935+00:00"
+    },
+    {
+        "fact": "Tavily is ideal for developers who need up-to-date information without building a crawler.",
+        "type": "other",
+        "confidence": 1.0,
+        "episode_id": 9,
+        "timestamp": "2026-08-02T16:00:00.178935+00:00"
+    },
+    {
+        "fact": "User prefers a developer-friendly search API.",
+        "type": "preference",
+        "confidence": 1.0,
+        "episode_id": 9,
+        "timestamp": "2026-08-02T16:00:00.178935+00:00"
+    },
+    {
+        "fact": "OnePlus Nord Buds 3 Pro",
+        "type": "personal_info",
+        "confidence": 1.0,
+        "episode_id": 10,
+        "timestamp": "2026-08-02T16:00:48.609576+00:00"
+    },
+    {
+        "fact": "price",
+        "type": "preference",
+        "confidence": 1.0,
+        "episode_id": 10,
+        "timestamp": "2026-08-02T16:00:48.609576+00:00"
+    },
+    {
+        "fact": "India",
+        "type": "location",
+        "confidence": 1.0,
+        "episode_id": 10,
+        "timestamp": "2026-08-02T16:00:48.609576+00:00"
+    },
+    {
+        "fact": "United States",
+        "type": "location",
+        "confidence": 1.0,
+        "episode_id": 10,
+        "timestamp": "2026-08-02T16:00:48.609576+00:00"
+    },
+    {
+        "fact": "United Kingdom",
+        "type": "location",
+        "confidence": 1.0,
+        "episode_id": 10,
+        "timestamp": "2026-08-02T16:00:48.609576+00:00"
+    },
+    {
+        "fact": "Australia",
+        "type": "location",
+        "confidence": 1.0,
+        "episode_id": 10,
+        "timestamp": "2026-08-02T16:00:48.609576+00:00"
+    },
+    {
+        "fact": "Royal Challengers Bengaluru (RCB) won the IPL 2026",
+        "type": "sports",
+        "confidence": 1.0,
+        "episode_id": 11,
+        "timestamp": "2026-08-02T16:05:53.965138+00:00"
+    },
+    {
+        "fact": "Gujarat Titans was defeated by RCB in IPL 2026 final",
+        "type": "sports",
+        "confidence": 1.0,
+        "episode_id": 11,
+        "timestamp": "2026-08-02T16:05:53.965138+00:00"
+    },
+    {
+        "fact": "RCB successfully defended their IPL title in 2026",
+        "type": "sports",
+        "confidence": 1.0,
+        "episode_id": 11,
+        "timestamp": "2026-08-02T16:05:53.965138+00:00"
+    },
+    {
+        "fact": "RCB secured their second consecutive IPL championship in 2026",
+        "type": "sports",
+        "confidence": 1.0,
+        "episode_id": 11,
+        "timestamp": "2026-08-02T16:05:53.965138+00:00"
+    }
+]
